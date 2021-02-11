@@ -1,4 +1,4 @@
-from typing import Optional
+# from typing import Optional
 import datetime
 from tensorflow import keras
 import pickle
